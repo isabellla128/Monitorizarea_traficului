@@ -642,7 +642,7 @@ int caut_in_baza_de_date_login(char x[100])
 
     char *server = "localhost";
     char *user = "isabela";
-    char *password = "12Bu808les#$";
+    char *password = "isabela";
     char *database = "isabela";
 
     conn = mysql_init(NULL);
@@ -722,7 +722,7 @@ int caut_in_baza_de_date_autentificare(char x[100])
 
     char *server = "localhost";
     char *user = "isabela";
-    char *password = "12Bu808les#$";
+    char *password = "isabela";
     char *database = "isabela";
 
     conn = mysql_init(NULL);
@@ -800,7 +800,7 @@ int adauga_in_baza_de_date(char x[100])
 
     char *server = "localhost";
     char *user = "isabela";
-    char *password = "12Bu808les#$";
+    char *password = "isabela";
     char *database = "isabela";
 
     conn = mysql_init(NULL);
@@ -856,7 +856,7 @@ int adauga_viteza_in_baza_de_date(int id, int viteza)
 
    char *server = "localhost";
    char *user = "isabela";
-   char *password = "12Bu808les#$";
+   char *password = "isabela";
    char *database = "isabela";
 
     conn = mysql_init(NULL);
@@ -885,7 +885,7 @@ int viteza_regulamentara(int x)
     
     char *server = "localhost";
     char *user = "isabela";
-    char *password = "12Bu808les#$";
+    char *password = "isabela";
     char *database = "isabela";
 
     int vit, vit_leg;
@@ -981,7 +981,7 @@ int vreme_da(int x)
 
     char *server = "localhost";
     char *user = "isabela";
-    char *password = "12Bu808les#$";
+    char *password = "isabela";
     char *database = "isabela";
 
     conn = mysql_init(NULL);
@@ -1009,7 +1009,7 @@ int sport_da(int x)
 
     char *server = "localhost";
     char *user = "isabela";
-    char *password = "12Bu808les#$";
+    char *password = "isabela";
     char *database = "isabela";
 
     conn = mysql_init(NULL);
@@ -1036,7 +1036,7 @@ int pretul_combustibilului_da(int x)
 
     char *server = "localhost";
     char *user = "isabela";
-    char *password = "12Bu808les#$";
+    char *password = "isabela";
     char *database = "isabela";
 
     conn = mysql_init(NULL);
@@ -1064,7 +1064,7 @@ int vreme_nu(int x)
 
     char *server = "localhost";
     char *user = "isabela";
-    char *password = "12Bu808les#$";
+    char *password = "isabela";
     char *database = "isabela";
 
     conn = mysql_init(NULL);
@@ -1092,7 +1092,7 @@ int sport_nu(int x)
 
     char *server = "localhost";
     char *user = "isabela";
-    char *password = "12Bu808les#$";
+    char *password = "isabela";
     char *database = "isabela";
 
     conn = mysql_init(NULL);
@@ -1120,7 +1120,7 @@ int pretul_combustibilului_nu(int x)
 
     char *server = "localhost";
     char *user = "isabela";
-    char *password = "12Bu808les#$";
+    char *password = "isabela";
     char *database = "isabela";
 
     conn = mysql_init(NULL);
@@ -1150,7 +1150,7 @@ int acces_la_vreme(int x)
 
     char *server = "localhost";
     char *user = "isabela";
-    char *password = "12Bu808les#$";
+    char *password = "isabela";
     char *database = "isabela";
 
     conn = mysql_init(NULL);
@@ -1188,7 +1188,7 @@ int acces_la_sport(int x)
 
     char *server = "localhost";
     char *user = "isabela";
-    char *password = "12Bu808les#$";
+    char *password = "isabela";
     char *database = "isabela";
 
     conn = mysql_init(NULL);
@@ -1226,7 +1226,7 @@ int acces_la_combustibil(int x)
 
     char *server = "localhost";
     char *user = "isabela";
-    char *password = "12Bu808les#$";
+    char *password = "isabela";
     char *database = "isabela";
 
     conn = mysql_init(NULL);
@@ -1264,7 +1264,7 @@ char* vreme()
 
     char *server = "localhost";
     char *user = "isabela";
-    char *password = "12Bu808les#$";
+    char *password = "isabela";
     char *database = "isabela";
 
     conn = mysql_init(NULL);
@@ -1317,7 +1317,7 @@ char* combustibil()
 
     char *server = "localhost";
     char *user = "isabela";
-    char *password = "12Bu808les#$";
+    char *password = "isabela";
     char *database = "isabela";
 
     conn = mysql_init(NULL);
@@ -1370,7 +1370,7 @@ char* sport()
      
     char *server = "localhost";
     char *user = "isabela";
-    char *password = "12Bu808les#$";
+    char *password = "isabela";
     char *database = "isabela";
 
     conn = mysql_init(NULL);
@@ -1423,7 +1423,7 @@ int viteza_scazuta(int x)
     
     char *server = "localhost";
     char *user = "isabela";
-    char *password = "12Bu808les#$";
+    char *password = "isabela";
     char *database = "isabela";
 
     int vit;
@@ -1464,7 +1464,7 @@ int adauga_accident_in_baza_de_date(int x)
 
     char *server = "localhost";
     char *user = "isabela";
-    char *password = "12Bu808les#$";
+    char *password = "isabela";
     char *database = "isabela";
 
     conn = mysql_init(NULL);
@@ -1510,7 +1510,7 @@ int verif_accident(int x)
 
     char *server = "localhost";
     char *user = "isabela";
-    char *password = "12Bu808les#$";
+    char *password = "isabela";
     char *database = "isabela";
 
     conn = mysql_init(NULL);
@@ -1563,7 +1563,7 @@ int sterge_accident(int x)
 
     char *server = "localhost";
     char *user = "isabela";
-    char *password = "12Bu808les#$";
+    char *password = "isabela";
     char *database = "isabela";
 
     conn = mysql_init(NULL);
@@ -1591,7 +1591,7 @@ char* mesaj_accident()
 
     char *server = "localhost";
     char *user = "isabela";
-    char *password = "12Bu808les#$";
+    char *password = "isabela";
     char *database = "isabela";
 
     conn = mysql_init(NULL);
